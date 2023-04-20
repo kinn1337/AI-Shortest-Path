@@ -1,4 +1,4 @@
-# Shortest-Path-AI
+# AIShortestPath
 
 This repository contains a main.py file which either creates a random grid or takes a grid input and finds the shortest path using both the A* and Theta* algorithm. 
 
